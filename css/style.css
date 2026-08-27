@@ -15,6 +15,25 @@ body{
     justify-content: space-between;
     padding: 20px;
 }
+
+.static-nav a{
+    background-color: #7C9EC3;
+    padding: 20px;
+    border-radius: 20px;
+    color: aliceblue
+}
+
+svg{
+    width: 6em;
+    height: 10em;
+    background-color: #7C9EC3;
+}
+
+path{
+    stroke: aliceblue;
+    stroke-width: 5;
+
+}
 .intro-section{
     display: flex;
     flex-direction: column;
